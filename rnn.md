@@ -172,3 +172,5 @@ how to scale up the training of the model over larger training dataset.
 ## Long-Short Term Memory (LSTM)
 
 TODO-SANDRA
+
+Deadline 06/15
